@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HLYAutumn's Personal Homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
