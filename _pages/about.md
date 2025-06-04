@@ -14,6 +14,6 @@ I am very fortunate to be advised by [Prof. Shanghang Zhang](https://www.shangha
 
 My research focuses primarily on the application of artificial intelligence in astronomy (AI4Astro) and medicine (AI4Med).
 
-[Email](hlyautumn@stu.pku.edu.cn) / [Github](https://github.com/HLYAutumn) / [Wechat](../images/wechat.jpg) /
+[Email](hlyautumn@stu.pku.edu.cn) / [Github](https://github.com/HLYAutumn) / [Wechat](../images/wechat.png) /
 
 
