@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- Liyuqiu  
+ Huang Liyuqiu  
  
 I'm a 2024 Master's student at [the School of Software and Microelectronics](https://www.ss.pku.edu.cn/) , [Peking University](https://www.pku.edu.cn/), and I holds a bachelor's degree from [the School of Astronomy and Space Science](https://astronomy.nju.edu.cn/) at [Nanjing University](https://www.nju.edu.cn/).
 
